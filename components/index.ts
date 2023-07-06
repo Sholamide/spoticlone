@@ -2,9 +2,16 @@ import Box from "./Box";
 import Sidebar from "./Sidebar";
 import SidebarItem from "./SidebarItem";
 import Library from "./Library";
+import Header from "./Header";
+import Button from "./Button";
+import ListItem from "./ListItem";
+
 export {
     Box,
-    Sidebar, 
+    Sidebar,
     SidebarItem,
-    Library
+    Library,
+    Header,
+    Button,
+    ListItem
 }
